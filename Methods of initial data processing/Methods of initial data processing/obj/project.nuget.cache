@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "kOqYytyUnRBG9XmVmYMbrgBnZqFDPOlNcZwmvXMpqCYifgOuhy6RF3f2scyEM4n34cQOtGoR5uSrKnJnurorDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ivand\\Documents\\GitHub\\Data mining\\Methods of initial data processing\\Methods of initial data processing\\Methods of initial data processing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivand\\.nuget\\packages\\microsoft.netcore.platforms\\3.0.0\\microsoft.netcore.platforms.3.0.0.nupkg.sha512",
+    "C:\\Users\\ivand\\.nuget\\packages\\microsoft.win32.systemevents\\4.6.0\\microsoft.win32.systemevents.4.6.0.nupkg.sha512",
+    "C:\\Users\\ivand\\.nuget\\packages\\scottplot\\4.1.35\\scottplot.4.1.35.nupkg.sha512",
+    "C:\\Users\\ivand\\.nuget\\packages\\system.drawing.common\\4.6.1\\system.drawing.common.4.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,23 @@
+C:\Users\ivand\source\repos\Data mining\Methods of initial data processing\Methods of initial data processing\bin\Debug\net5.0\Methods of initial data processing.exe
+C:\Users\ivand\source\repos\Data mining\Methods of initial data processing\Methods of initial data processing\bin\Debug\net5.0\Methods of initial data processing.deps.json
+C:\Users\ivand\source\repos\Data mining\Methods of initial data processing\Methods of initial data processing\bin\Debug\net5.0\Methods of initial data processing.runtimeconfig.json
+C:\Users\ivand\source\repos\Data mining\Methods of initial data processing\Methods of initial data processing\bin\Debug\net5.0\Methods of initial data processing.runtimeconfig.dev.json
+C:\Users\ivand\source\repos\Data mining\Methods of initial data processing\Methods of initial data processing\bin\Debug\net5.0\Methods of initial data processing.dll
+C:\Users\ivand\source\repos\Data mining\Methods of initial data processing\Methods of initial data processing\bin\Debug\net5.0\Methods of initial data processing.pdb
+C:\Users\ivand\source\repos\Data mining\Methods of initial data processing\Methods of initial data processing\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ivand\source\repos\Data mining\Methods of initial data processing\Methods of initial data processing\bin\Debug\net5.0\ScottPlot.dll
+C:\Users\ivand\source\repos\Data mining\Methods of initial data processing\Methods of initial data processing\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\ivand\source\repos\Data mining\Methods of initial data processing\Methods of initial data processing\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ivand\source\repos\Data mining\Methods of initial data processing\Methods of initial data processing\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ivand\source\repos\Data mining\Methods of initial data processing\Methods of initial data processing\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ivand\source\repos\Data mining\Methods of initial data processing\Methods of initial data processing\obj\Debug\net5.0\Methods of initial data processing.csproj.AssemblyReference.cache
+C:\Users\ivand\source\repos\Data mining\Methods of initial data processing\Methods of initial data processing\obj\Debug\net5.0\Methods of initial data processing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivand\source\repos\Data mining\Methods of initial data processing\Methods of initial data processing\obj\Debug\net5.0\Methods of initial data processing.AssemblyInfoInputs.cache
+C:\Users\ivand\source\repos\Data mining\Methods of initial data processing\Methods of initial data processing\obj\Debug\net5.0\Methods of initial data processing.AssemblyInfo.cs
+C:\Users\ivand\source\repos\Data mining\Methods of initial data processing\Methods of initial data processing\obj\Debug\net5.0\Methods of initial data processing.csproj.CoreCompileInputs.cache
+C:\Users\ivand\source\repos\Data mining\Methods of initial data processing\Methods of initial data processing\obj\Debug\net5.0\Methods of initial data processing.csproj.CopyComplete
+C:\Users\ivand\source\repos\Data mining\Methods of initial data processing\Methods of initial data processing\obj\Debug\net5.0\Methods of initial data processing.dll
+C:\Users\ivand\source\repos\Data mining\Methods of initial data processing\Methods of initial data processing\obj\Debug\net5.0\refint\Methods of initial data processing.dll
+C:\Users\ivand\source\repos\Data mining\Methods of initial data processing\Methods of initial data processing\obj\Debug\net5.0\Methods of initial data processing.pdb
+C:\Users\ivand\source\repos\Data mining\Methods of initial data processing\Methods of initial data processing\obj\Debug\net5.0\Methods of initial data processing.genruntimeconfig.cache
+C:\Users\ivand\source\repos\Data mining\Methods of initial data processing\Methods of initial data processing\obj\Debug\net5.0\ref\Methods of initial data processing.dll
