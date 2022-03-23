@@ -18,8 +18,11 @@ namespace FunctionProcess
         }
         public void FuncTabulation(int Start, int End, double Step)
         {
-            X_Set = Enumerable.Range(Start, (int)(End / Step)).Select(n => (n * Step)).SkipWhile(n => (n < Start)).ToList();
-            Y_Set = X_Set.Select(n => function(n)).ToList();
+            for (double x = Start; x <= End; x += Step)
+            {
+                X_Set.Add(x);
+                Y_Set.Add(function(x));
+            }
         }
 
         public List<double> MakeNoise (double leftLimit, double rightLimit)
