@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "t3eAmk8r/lDf0yZWvw4NSxvCjIyOBzFTh9dIUwH2C3HZrV+2oT9Claab30JCKykfNKkF8WD1bQZzcnlC7OZtBA==",
+  "dgSpecHash": "VC1ZGtkW6Z0z6GgrC0OJlwOPzK6TXBbvOblPzb0mnB0w+56e39Ith6r7Ue/kOh2LjRfLcl24jTBb9dJMgFxHnw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ivand\\Documents\\GitHub\\Data mining\\Methods of initial data processing\\Methods of initial data processing\\Methods of initial data processing.csproj",
+  "projectFilePath": "C:\\Users\\ivand\\Documents\\GitHub\\Data mining\\Least Squares Method\\Least Squares Method\\Least Squares Method.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ivand\\.nuget\\packages\\microsoft.netcore.platforms\\3.0.0\\microsoft.netcore.platforms.3.0.0.nupkg.sha512",
     "C:\\Users\\ivand\\.nuget\\packages\\microsoft.win32.systemevents\\4.6.0\\microsoft.win32.systemevents.4.6.0.nupkg.sha512",
-    "C:\\Users\\ivand\\.nuget\\packages\\scottplot\\4.1.35\\scottplot.4.1.35.nupkg.sha512",
+    "C:\\Users\\ivand\\.nuget\\packages\\scottplot\\4.1.36\\scottplot.4.1.36.nupkg.sha512",
     "C:\\Users\\ivand\\.nuget\\packages\\system.drawing.common\\4.6.1\\system.drawing.common.4.6.1.nupkg.sha512"
   ],
   "logs": []

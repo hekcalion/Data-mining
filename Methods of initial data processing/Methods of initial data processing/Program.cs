@@ -10,7 +10,7 @@ namespace Methods_of_initial_data_processing
         static void Main(string[] args)
         {
             Function F = new Function(delegate (double x) { return Math.Cos(0.1 * x) + Math.Cos(x);});
-            F.FuncTabulation(1, 10, 0.1);
+            F.FuncTabulation(0, 10, 0.1);
             List<double> Y_Set_Noised = F.MakeNoise(0.0, 0.5);
             List<double> Y_Set_UAM = InitialDataProcess.UpdateAvarageMethod(Y_Set_Noised);
 

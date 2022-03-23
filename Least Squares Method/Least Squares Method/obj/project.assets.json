@@ -29,7 +29,7 @@
           }
         }
       },
-      "ScottPlot/4.1.35": {
+      "ScottPlot/4.1.36": {
         "type": "package",
         "dependencies": {
           "System.Drawing.Common": "4.6.1"
@@ -113,10 +113,10 @@
         "version.txt"
       ]
     },
-    "ScottPlot/4.1.35": {
-      "sha512": "2IwWXZj3KvwHhA50II13YQLIJcD/+wJ44qtlQwh4fcx01P5NytqbT7v6x34vuWGVMkVpi+zZwfAlRMVo7pZAFA==",
+    "ScottPlot/4.1.36": {
+      "sha512": "KDX5w4O1b9MvYn0b5jHBpFrQeV/xugIsrArIFksTnxC0c0Tr0e7HeO8AuUlspQrqOk1kTC5ao7PQbWspzXf7kw==",
       "type": "package",
-      "path": "scottplot/4.1.35",
+      "path": "scottplot/4.1.36",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -129,7 +129,7 @@
         "lib/net5.0/ScottPlot.xml",
         "lib/netstandard2.0/ScottPlot.dll",
         "lib/netstandard2.0/ScottPlot.xml",
-        "scottplot.4.1.35.nupkg.sha512",
+        "scottplot.4.1.36.nupkg.sha512",
         "scottplot.nuspec"
       ]
     },
@@ -175,7 +175,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "ScottPlot >= 4.1.35"
+      "ScottPlot >= 4.1.36"
     ]
   },
   "packageFolders": {
@@ -184,11 +184,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ivand\\Documents\\GitHub\\Data mining\\Methods of initial data processing\\Methods of initial data processing\\Methods of initial data processing.csproj",
-      "projectName": "Methods of initial data processing",
-      "projectPath": "C:\\Users\\ivand\\Documents\\GitHub\\Data mining\\Methods of initial data processing\\Methods of initial data processing\\Methods of initial data processing.csproj",
+      "projectUniqueName": "C:\\Users\\ivand\\Documents\\GitHub\\Data mining\\Least Squares Method\\Least Squares Method\\Least Squares Method.csproj",
+      "projectName": "Least Squares Method",
+      "projectPath": "C:\\Users\\ivand\\Documents\\GitHub\\Data mining\\Least Squares Method\\Least Squares Method\\Least Squares Method.csproj",
       "packagesPath": "C:\\Users\\ivand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ivand\\Documents\\GitHub\\Data mining\\Methods of initial data processing\\Methods of initial data processing\\obj\\",
+      "outputPath": "C:\\Users\\ivand\\Documents\\GitHub\\Data mining\\Least Squares Method\\Least Squares Method\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ivand\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -219,7 +219,7 @@
         "dependencies": {
           "ScottPlot": {
             "target": "Package",
-            "version": "[4.1.35, )"
+            "version": "[4.1.36, )"
           }
         },
         "imports": [

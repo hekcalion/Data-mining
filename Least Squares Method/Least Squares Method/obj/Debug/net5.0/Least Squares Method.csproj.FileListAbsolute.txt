@@ -1,0 +1,23 @@
+C:\Users\ivand\Documents\GitHub\Data mining\Least Squares Method\Least Squares Method\bin\Debug\net5.0\Least Squares Method.exe
+C:\Users\ivand\Documents\GitHub\Data mining\Least Squares Method\Least Squares Method\bin\Debug\net5.0\Least Squares Method.deps.json
+C:\Users\ivand\Documents\GitHub\Data mining\Least Squares Method\Least Squares Method\bin\Debug\net5.0\Least Squares Method.runtimeconfig.json
+C:\Users\ivand\Documents\GitHub\Data mining\Least Squares Method\Least Squares Method\bin\Debug\net5.0\Least Squares Method.runtimeconfig.dev.json
+C:\Users\ivand\Documents\GitHub\Data mining\Least Squares Method\Least Squares Method\bin\Debug\net5.0\Least Squares Method.dll
+C:\Users\ivand\Documents\GitHub\Data mining\Least Squares Method\Least Squares Method\bin\Debug\net5.0\Least Squares Method.pdb
+C:\Users\ivand\Documents\GitHub\Data mining\Least Squares Method\Least Squares Method\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ivand\Documents\GitHub\Data mining\Least Squares Method\Least Squares Method\bin\Debug\net5.0\ScottPlot.dll
+C:\Users\ivand\Documents\GitHub\Data mining\Least Squares Method\Least Squares Method\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\ivand\Documents\GitHub\Data mining\Least Squares Method\Least Squares Method\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ivand\Documents\GitHub\Data mining\Least Squares Method\Least Squares Method\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ivand\Documents\GitHub\Data mining\Least Squares Method\Least Squares Method\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ivand\Documents\GitHub\Data mining\Least Squares Method\Least Squares Method\obj\Debug\net5.0\Least Squares Method.csproj.AssemblyReference.cache
+C:\Users\ivand\Documents\GitHub\Data mining\Least Squares Method\Least Squares Method\obj\Debug\net5.0\Least Squares Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivand\Documents\GitHub\Data mining\Least Squares Method\Least Squares Method\obj\Debug\net5.0\Least Squares Method.AssemblyInfoInputs.cache
+C:\Users\ivand\Documents\GitHub\Data mining\Least Squares Method\Least Squares Method\obj\Debug\net5.0\Least Squares Method.AssemblyInfo.cs
+C:\Users\ivand\Documents\GitHub\Data mining\Least Squares Method\Least Squares Method\obj\Debug\net5.0\Least Squares Method.csproj.CoreCompileInputs.cache
+C:\Users\ivand\Documents\GitHub\Data mining\Least Squares Method\Least Squares Method\obj\Debug\net5.0\Least Squares Method.csproj.CopyComplete
+C:\Users\ivand\Documents\GitHub\Data mining\Least Squares Method\Least Squares Method\obj\Debug\net5.0\Least Squares Method.dll
+C:\Users\ivand\Documents\GitHub\Data mining\Least Squares Method\Least Squares Method\obj\Debug\net5.0\refint\Least Squares Method.dll
+C:\Users\ivand\Documents\GitHub\Data mining\Least Squares Method\Least Squares Method\obj\Debug\net5.0\Least Squares Method.pdb
+C:\Users\ivand\Documents\GitHub\Data mining\Least Squares Method\Least Squares Method\obj\Debug\net5.0\Least Squares Method.genruntimeconfig.cache
+C:\Users\ivand\Documents\GitHub\Data mining\Least Squares Method\Least Squares Method\obj\Debug\net5.0\ref\Least Squares Method.dll
